@@ -1,0 +1,12 @@
+		/* This is used to snap the canvas to the top left of the screen.*/
+		body {
+			margin: 0;
+			display: block;
+			background-color: #8dd5e8;
+			overflow: hidden;
+		}
+		/*This border around the canvas just lets us know where the boundaries are. (Boundaries are important!)*/ 
+		canvas {
+			background-color: white;
+		}
+		/*Colors I want to use: #FE8141 #8CBEA8*/

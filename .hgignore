@@ -1,0 +1,6 @@
+syntax:glob
+
+social/
+*txt
+syntax: glob
+*.tmp
